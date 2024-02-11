@@ -6,5 +6,8 @@ Firmware for my custom 3D printer based on a [WITBOX 2](https://github.com/bq/wi
 - Copy the files *Configuration.h* and *Configuration_adv.h* to */Marlin/config*.
 - Follow the steps to [build Marlin using PlatformIO](https://marlinfw.org/docs/basics/install_platformio.html).
 
+## After updating the files
+- Copy again the files *Configuration.h* and *Configuration_adv.h* to the root of this repository.
+
 ## Task list
 [List](tasks.md)
